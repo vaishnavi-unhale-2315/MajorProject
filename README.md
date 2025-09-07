@@ -45,3 +45,10 @@
   <li>Method-Override</li>
   <li>Connect-Flash</li>
 </ul>
+<h2 align="center">🔥 Badges</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/Made%20With-JavaScript-yellow?style=for-the-badge&logo=javascript" alt="Made with JS">
+  <img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3" alt="CSS3">
+  <img src="https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge&logo=render" alt="Live Demo">
+</p>
