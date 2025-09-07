@@ -9,6 +9,7 @@ body {
   flex-direction: column;
   min-height: 100vh;
   margin: 0;
+  margin-top: rem;
 }
 
 .container {
@@ -17,8 +18,14 @@ body {
 
 /* Navbar */
 .navbar {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 1000;
   height: 5rem;
   background-color: white;
+  display: flex;  
+  align-items: center;
 }
 
 .fa-compass {
